@@ -5,7 +5,6 @@
 ! avatar:rgb(15, 34, 97)
 
 ! Google
-/google/$downrank
 $discard,site=google.com
 $discard,site=google.de
 $discard,site=about.google

@@ -4,6 +4,11 @@
 ! author: bram1305
 ! avatar: 44529d
 
+$discard,site=wikipedia.com
+$discard,site=wikipedia.org
+$discard,site=wiktionary.com
+$discard,site=wiktionary.org
+
 $discard,site=www.top-obchody.sk
 $discard,site=www.vzor.sk
 $discard,site=www.werich.sk

@@ -13,6 +13,7 @@ $discard,site=wiktionary.org
 $discard,site=yelp.com
 $discard,site=deviantart.com
 
+$discar,site=github.com
 $discard,site=waze.com
 $discard,site=maps.google.com
 

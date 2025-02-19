@@ -8,6 +8,7 @@ $discard,site=wikipedia.com
 $discard,site=wikipedia.org
 $discard,site=wiktionary.com
 $discard,site=wiktionary.org
+$discard,site=yelp.com
 
 $discard,site=www.top-obchody.sk
 $discard,site=www.vzor.sk

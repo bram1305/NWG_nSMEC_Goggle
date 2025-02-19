@@ -2,7 +2,6 @@
 ! description: Removes Social Media and E-shops.
 ! public: True
 ! author: bram1305
-! avatar:rgb(15, 34, 97)
 
 ! Google
 $discard,site=google.com

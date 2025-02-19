@@ -11,6 +11,7 @@ $discard,site=en.wikipedia.org
 $discard,site=wiktionary.com
 $discard,site=wiktionary.org
 $discard,site=yelp.com
+$discard,site=deviantart.com
 
 $discard,site=waze.com
 $discard,site=maps.google.com

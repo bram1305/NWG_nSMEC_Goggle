@@ -12,6 +12,9 @@ $discard,site=wiktionary.com
 $discard,site=wiktionary.org
 $discard,site=yelp.com
 
+$discard,site=waze.com
+$discard,site=maps.google.com
+
 $discard,site=www.top-obchody.sk
 $discard,site=www.vzor.sk
 $discard,site=www.werich.sk

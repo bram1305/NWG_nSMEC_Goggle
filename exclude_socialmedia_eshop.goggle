@@ -1,6 +1,6 @@
 ! name: Exclude Social Media and E-Shops
 ! description: Removes Social Media and E-shops.
-! public: False
+! public: True
 ! author: bram1305
 ! avatar:rgb(15, 34, 97)
 

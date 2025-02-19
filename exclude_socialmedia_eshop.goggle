@@ -6,6 +6,8 @@
 
 $discard,site=wikipedia.com
 $discard,site=wikipedia.org
+$discard,site=en.wikipedia.com
+$discard,site=en.wikipedia.org
 $discard,site=wiktionary.com
 $discard,site=wiktionary.org
 $discard,site=yelp.com

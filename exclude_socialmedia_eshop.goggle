@@ -7511,3 +7511,4 @@ $discard,site=api-africa.gotinder.com
 $discard,site=images-ssl-jpn.gotinder.com
 $discard,site=purchaseportal.svc.b.ue1az.gotinder.com
 $discard,site=purchase-portal.staging1.gotinder.com
+$discard,site=abc

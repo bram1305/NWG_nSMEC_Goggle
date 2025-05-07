@@ -3,7 +3,6 @@
 ! public: False
 ! author: bram1305
 ! avatar: 44529d
-
 $discard,site=wikipedia.com
 $discard,site=wikipedia.org
 $discard,site=en.wikipedia.com
@@ -12,11 +11,9 @@ $discard,site=wiktionary.com
 $discard,site=wiktionary.org
 $discard,site=yelp.com
 $discard,site=deviantart.com
-
 $discar,site=github.com
 $discard,site=waze.com
 $discard,site=maps.google.com
-
 $discard,site=www.top-obchody.sk
 $discard,site=www.vzor.sk
 $discard,site=www.werich.sk
@@ -872,9 +869,6 @@ $discard,site=www.kmart.com.au
 $discard,site=www.catch.com.au
 $discard,site=www.kogan.com
 $discard,site=www.appliancesonline.com.au
-
-
-! Google
 $discard,site=google.com
 $discard,site=google.de
 $discard,site=about.google
@@ -1046,8 +1040,6 @@ $discard,site=yt3.ggpht.com
 $discard,site=ytimg.com
 $discard,site=ytkids.app.goo.gl
 $discard,site=googlevideo.com
-
-! Pinterest
 $discard,site=investor.pinterestinc.com
 $discard,site=pinterest.at
 $discard,site=pinterest.ca
@@ -1069,8 +1061,6 @@ $discard,site=pinterest.ph
 $discard,site=pinterest.pt
 $discard,site=pinterest.ru
 $discard,site=pinterestcareers.com
-
-! Facebook
 $discard,site=facebook.com
 $discard,site=m.facebook.com
 $discard,site=developers.facebook.com
@@ -3269,8 +3259,6 @@ $discard,site=applink.instagram.com
 $discard,site=default-geo-p15.instagram.com
 $discard,site=creators.instagram.com
 $discard,site=z-p4.upload.instagram.com
-
-! Omegle
 $discard,site=omegle.com
 $discard,site=logs.omegle.com
 $discard,site=lady.omegle.com
@@ -3341,8 +3329,6 @@ $discard,site=www.omegle.fun
 $discard,site=mail.omegle.fun
 $discard,site=discord.media
 $discard,site=discord.com
-
-! deviantart
 $discard,site=deviantart.com
 $discard,site=www.groenenweer.deviantart.com
 $discard,site=www.shiffrin.deviantart.com
@@ -3366,8 +3352,6 @@ $discard,site=apalancamiento.unahoraacistastacov.deviantart.com
 $discard,site=o8.ssmtp1k.deviantart.com
 $discard,site=o4.sstreamk.deviantart.com
 $discard,site=omnimetric.preview.ns47.deviantart.com
-
-! Reddit
 $discard,site=reddit.com
 $discard,site=alb.reddit.com
 $discard,site=np.reddit.com
@@ -5402,8 +5386,6 @@ $discard,site=i-staging.redd.it
 $discard,site=ingest-staging.redd.it
 $discard,site=ingest.redd.it
 $discard,site=imo.redd.it
-
-! Snapchat
 $discard,site=snapchat.com
 $discard,site=support.snapchat.com
 $discard,site=businesshelp.snapchat.com
@@ -6226,8 +6208,6 @@ $discard,site=scan-more.snapchat.com
 $discard,site=pro.snapchat.com
 $discard,site=antivirus.priv.snappublisher.snapchat.com
 $discard,site=us-east1-aws-nlb-test.api.snapchat.com
-
-! TikTok
 $discard,site=tiktok.com
 $discard,site=vm.tiktok.com
 $discard,site=newsroom.tiktok.com
@@ -7050,8 +7030,6 @@ $discard,site=lf16-zephyr-va.ibytedtos.com
 $discard,site=lf16-cloudmsg-sms.ibytedtos.com
 $discard,site=sf16-srecdn-gva.ibytedtos.com
 $discard,site=lf19-captcha-sign.ibytedtos.com
-
-! Tinder
 $discard,site=tinder.com
 $discard,site=help.tinder.com
 $discard,site=swipelife.tinder.com
@@ -7510,4 +7488,4 @@ $discard,site=api.d.ue1az.gotinder.com
 $discard,site=api-africa.gotinder.com
 $discard,site=images-ssl-jpn.gotinder.com
 $discard,site=purchaseportal.svc.b.ue1az.gotinder.com
-$discard,site=purchase-portal.staging1.gotinder.com$discard,site=abc
+$discard,site=cutterbuck.com
